@@ -8,7 +8,7 @@
 </p>
 
 ## About Send SMS
-I use Laravel 8 and Nexmo. It can send message only to my number, because i tried free demo version xD. But it's satisfying. I work together with Kang Aldy but we work on our own project.
+I use Laravel 8 and Nexmo. It can send message only to my number, because i tried free demo version xD. But it's satisfying. I work together with Kang Aldy but we work on our own project. I watch the tutorial from Youtube channel Code With Dary.
 
 ## About Laravel
 
